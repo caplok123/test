@@ -1,0 +1,25 @@
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+  }
+  
+  .image-container {
+    position: relative;
+    margin: 10px;
+  }
+  
+  .im-image {
+    width: 20px; /* Set width and height according to your image dimensions */
+    height: 20px;
+    cursor: pointer;
+  }
+  
+  .ima-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px; /* Set width and height according to your image dimensions */
+    height: 20px;
+  }
+  

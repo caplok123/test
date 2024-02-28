@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+body {
+    background-color: rgba(232, 232, 232, 0.879);
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+}
